@@ -1,0 +1,31 @@
+_repo: La-bella-Venere_74495
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Varlet, Théo
+    alias: Varlet, Theo
+    birthdate: 1878
+    deathdate: 1938
+    gutenberg_agent_id: '55527'
+    url: http://www.gutenberg.org/2009/agents/55527
+    wikipedia: https://fr.wikipedia.org/wiki/Th%C3%A9o_Varlet
+description: ''
+gutenberg_issued: '2024-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74495'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065793641
+pgterms:marc905: 20230611032130varlet
+pgterms:marc906: '1920'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aAmiens :$bEdgar Malfère, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La bella Venere
+url: http://www.gutenberg.org/ebooks/74495
